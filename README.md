@@ -1,16 +1,144 @@
-## Hi there 👋
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:06B6D4&height=220&section=header&text=Maria%20Bola%C3%B1os&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Graphics%20%7C%20Rendering%20%7C%20Unreal%20Engine%20%7C%20Real-time%20Visual%20Effects&descAlignY=58&descSize=16" />
+</p>
 
-<!--
-**Marybol7/Marybol7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Maria 👾</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>Computer Engineering student focused on graphics, rendering, real-time visual effects and interactive 3D experiences.</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=750&lines=Graphics+%26+Rendering+Enthusiast;Unreal+Engine+%7C+OpenGL+%7C+Shaders;Real-time+water%2C+caustics+and+visual+effects;Learning+to+build+better+3D+worlds" />
+</p>
+
+---
+
+## About me
+
+I am a Computer Engineering student interested in the technical side of videogames, graphics programming and real-time rendering.
+
+My current focus is learning how visual effects are built from both a mathematical and practical point of view: waves, shaders, water surfaces, caustics, materials, post-processing and performance analysis.
+
+I enjoy projects where programming, visual design and technical problem solving meet.
+
+---
+
+## Current focus
+
+- Real-time graphics and rendering.
+- Unreal Engine materials, Blueprints and plugin development.
+- Water simulation approximations and visual liquid effects.
+- Caustics, waves, foam, underwater distortion and post-processing.
+- OpenGL, camera transformations, matrices and graphics fundamentals.
+- Improving my C++ and shader programming skills.
+
+---
+
+## Featured work
+
+### CausticsPluginUE
+
+A project focused on real-time liquid and caustic visual effects in Unreal Engine.
+
+This project explores how to create convincing water and liquid effects without relying on full physical fluid simulation. It combines different visual blocks such as animated normals, sine waves, Gerstner waves, caustics, underwater distortion, foam, ripples and buoyancy-style interactions.
+
+<p align="center">
+  <a href="https://github.com/Marybol7/CausticsPluginUE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Marybol7&repo=CausticsPluginUE&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=C7D2FE" />
+  </a>
+</p>
+
+Main areas explored:
+
+- Modular water material architecture.
+- Sine and Gerstner wave displacement.
+- Noise-based variation to avoid repetitive movement.
+- Projected and material-based caustics.
+- Depth fade and color variation by depth.
+- Underwater post-process distortion.
+- Foam and ripple generation.
+- Different liquid presets such as water, oil, honey and tar.
+- Performance testing in Unreal Engine.
+
+---
+
+## Tech stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-1E1B4B?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unreal%20Engine-312E81?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenGL-1D4ED8?style=for-the-badge&logo=opengl&logoColor=white" />
+  <img src="https://img.shields.io/badge/GLSL-6D28D9?style=for-the-badge&logo=opengl&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shaders-0891B2?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-4338CA?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-7C3AED?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-2563EB?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## Graphics interests
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Rendering%20Pipeline-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Shaders-06B6D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Unreal%20Materials-6366F1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Water%20Effects-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Post--Processing-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Graphics%20Math-2563EB?style=for-the-badge" />
+</p>
+
+---
+
+## What I like building
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Water%20Shaders-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Caustics-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/3D%20Scenes-06B6D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Technical%20Art-9333EA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Real--time%20VFX-4F46E5?style=for-the-badge" />
+</p>
+
+---
+
+## GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Marybol7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=C7D2FE" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marybol7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C7D2FE" />
+</p>
+
+---
+
+## Currently learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Math%20for%20Graphics-1E1B4B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenGL-312E81?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Camera%20Transforms-4338CA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Matrices-6D28D9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Rendering%20Pipeline-0891B2?style=for-the-badge" />
+</p>
+
+---
+
+## Goals
+
+- Keep improving my graphics programming foundation.
+- Build stronger rendering and shader projects.
+- Learn more about the real-time rendering pipeline.
+- Create a portfolio focused on visual and technical 3D work.
+- Work in graphics, rendering or real-time interactive technology.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:7C3AED,100:4F46E5&height=120&section=footer" />
+</p>
