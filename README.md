@@ -13,6 +13,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=750&lines=Graphics+%26+Rendering+Enthusiast;Unreal+Engine+%7C+OpenGL+%7C+Shaders;Real-time+water%2C+caustics+and+visual+effects;Learning+to+build+better+3D+worlds" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Graphics-4F46E5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Rendering-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Unreal%20Engine-312E81?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenGL-06B6D4?style=for-the-badge&logo=opengl&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shaders-0891B2?style=for-the-badge" />
+</p>
+
 ---
 
 ## About me
@@ -38,16 +46,13 @@ I enjoy projects where programming, visual design and technical problem solving 
 
 ## Featured work
 
-<table>
-  <tr>
-    <td width="100%">
-      <h3>CausticsPluginUE</h3>
+### CausticsPluginUE
 
 A real-time graphics project focused on liquid rendering and caustic visual effects in Unreal Engine.
 
 This project explores how to create convincing water and liquid effects without relying on full physical fluid simulation. It combines animated normals, sine waves, Gerstner waves, caustics, underwater distortion, foam, ripples and buoyancy-style interactions.
 
-<p>
+<p align="center">
   <a href="https://github.com/Marybol7/CausticsPluginUE">
     <img src="https://img.shields.io/badge/View%20Repository-4F46E5?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -57,23 +62,47 @@ This project explores how to create convincing water and liquid effects without 
   <img src="https://img.shields.io/badge/Caustics-8B5CF6?style=for-the-badge" />
 </p>
 
-<b>Main areas explored:</b>
+Main areas explored:
 
-<ul>
-  <li>Modular water material architecture.</li>
-  <li>Sine and Gerstner wave displacement.</li>
-  <li>Noise-based variation to avoid repetitive movement.</li>
-  <li>Projected and material-based caustics.</li>
-  <li>Depth fade and color variation by depth.</li>
-  <li>Underwater post-process distortion.</li>
-  <li>Foam and ripple generation.</li>
-  <li>Different liquid presets such as water, oil, honey and tar.</li>
-  <li>Performance testing in Unreal Engine.</li>
-</ul>
+- Modular water material architecture.
+- Sine and Gerstner wave displacement.
+- Noise-based variation to avoid repetitive movement.
+- Projected and material-based caustics.
+- Depth fade and color variation by depth.
+- Underwater post-process distortion.
+- Foam and ripple generation.
+- Different liquid presets such as water, oil, honey and tar.
+- Performance testing in Unreal Engine.
 
-</td>
-</tr>
-</table>
+---
+
+## Visual demos
+
+<p align="center">
+  <img src="./assets/3_caustics.gif" width="46%" alt="Caustics demo" />
+  <img src="./assets/shore.gif" width="46%" alt="Shore demo" />
+</p>
+
+<p align="center">
+  <img src="./assets/liquidfx_demo.png" width="92%" alt="LiquidFX demo scene" />
+</p>
+
+<p align="center">
+  <i>Real-time liquid rendering, caustics, shoreline foam and visual effects inside Unreal Engine.</i>
+</p>
+
+---
+
+## What this project explores
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Water%20Shaders-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Caustics-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gerstner%20Waves-6366F1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Foam-06B6D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ripples-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Underwater%20FX-0891B2?style=for-the-badge" />
+</p>
 
 ---
 
@@ -106,18 +135,6 @@ This project explores how to create convincing water and liquid effects without 
   <img src="https://img.shields.io/badge/Water%20Effects-0EA5E9?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Post--Processing-7C3AED?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Graphics%20Math-2563EB?style=for-the-badge" />
-</p>
-
----
-
-## What I like building
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Water%20Shaders-0EA5E9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Caustics-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/3D%20Scenes-06B6D4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Technical%20Art-9333EA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Real--time%20VFX-4F46E5?style=for-the-badge" />
 </p>
 
 ---
