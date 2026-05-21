@@ -160,6 +160,12 @@ Main areas explored:
 - Work in graphics, rendering or real-time interactive technology.
 
 ---
+## Trophy
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=marybol7&theme=aura&section=footer" />
+</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:7C3AED,100:4F46E5&height=120&section=footer" />
